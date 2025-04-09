@@ -5,7 +5,7 @@ Author        : MY23-1
 Created       : 2025-04-09
 Last Modified : 2025-04-09
 Version       : 1.0.0
-License       : MIT
+License       : None
 
 Description:
     This script automates login and navigation in a browser using Selenium.
