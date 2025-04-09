@@ -13,10 +13,10 @@ Description:
     Intended for automation of post-login data fetching from web applications.
 
 Usage:
-    $ python logbooko_submission_automation.py
+    $ python logbook_submission_automation.py
 
 Dependencies:
-    - Python 3.7+
+    - Python 3.9+
     - selenium
     - python-dotenv
     - requests
